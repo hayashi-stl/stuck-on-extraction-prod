@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -613,13 +613,13 @@
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="71.047783"
-       y="9.1093054"
+       x="51.047783"
+       y="59.109322"
        id="text5756"><tspan
          sodipodi:role="line"
          id="tspan5754"
-         x="71.047783"
-         y="9.1093054"
+         x="51.047783"
+         y="59.109322"
          style="stroke-width:0.264583">C</tspan></text>
     <text
        xml:space="preserve"
@@ -899,13 +899,13 @@
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="50.777687"
-       y="59.114834"
+       x="70.777687"
+       y="9.1148176"
        id="text4287"><tspan
          sodipodi:role="line"
          id="tspan4285"
-         x="50.777687"
-         y="59.114834"
+         x="70.777687"
+         y="9.1148176"
          style="stroke-width:0.264583">N</tspan></text>
     <text
        xml:space="preserve"
